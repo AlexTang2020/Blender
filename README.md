@@ -1,2 +1,3 @@
 # Blender
-Some models I made learning how to use Blender. There are also some saber files of models I made for Beat Saber
+Learning the basics of 3D modeling through Blender
+Tested some models to be used as Beat Saber Custom Sabers
