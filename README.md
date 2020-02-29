@@ -1,3 +1,4 @@
 # Blender
 Learning the basics of 3D modeling through Blender
-Tested some models to be used as Beat Saber Custom Sabers
+
+Applied models to projects such as custom sabers for the VR game Beat Saber and for Global Game Jam 2019 game called Divorce Race
